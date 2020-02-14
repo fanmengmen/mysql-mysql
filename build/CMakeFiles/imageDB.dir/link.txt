@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/imageDB.dir/imageDB.cpp.o  -o imageDB -Wl,-rpath,/usr/local/lib /usr/local/lib/libmysqlpp.so -lmysqlclient 

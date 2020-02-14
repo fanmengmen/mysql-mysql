@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/newsDB.dir/test.cpp.o  -o newsDB -Wl,-rpath,/usr/local/lib /usr/local/lib/libmysqlpp.so -lmysqlclient 

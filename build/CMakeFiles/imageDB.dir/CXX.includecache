@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././inc/news.hpp
+iostream
+-
+string
+-
+ctime
+-
+mysql++/mysql++.h
+-
+mysql++/ssqls.h
+-
+iomanip
+-
+fstream
+-
+
+.././inc/tableNews.hpp
+news.hpp
+.././inc/news.hpp
+mysql++/mysql++.h
+-
+iomanip
+-
+
+/home/gf/ubuntu/sql/imageDB.cpp
+news.hpp
+/home/gf/ubuntu/sql/news.hpp
+tableNews.hpp
+/home/gf/ubuntu/sql/tableNews.hpp
+iostream
+-
+mysql++/mysql++.h
+-
+algorithm
+-
+

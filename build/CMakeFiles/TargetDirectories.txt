@@ -1,0 +1,4 @@
+/home/gf/ubuntu/sql/build/CMakeFiles/edit_cache.dir
+/home/gf/ubuntu/sql/build/CMakeFiles/rebuild_cache.dir
+/home/gf/ubuntu/sql/build/CMakeFiles/newsDB.dir
+/home/gf/ubuntu/sql/build/CMakeFiles/imageDB.dir
